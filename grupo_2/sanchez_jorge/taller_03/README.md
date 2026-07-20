@@ -1,5 +1,5 @@
 # Taller 03 - Minería de Datos
-
+[ Ver informe (HTML)](https://htmlpreview.github.io/?https://github.com/afflorezr/dm_2016325/blob/main/grupo_2/sanchez_jorge/taller_03/taller_3.html)
 ## Nota para el profesor
 
 Buenos días profesor,
