@@ -49,8 +49,4 @@ Asegúrese de contar con los siguientes paquetes de R instalados antes de ejecut
 
 ### 4. Compilación del Informe Final (`taller_3.Rmd`)
 
-Una vez que existan todos los archivos `.rds` y `.png` en la carpeta `output/`, proceda a compilar el documento principal `taller_3.Rmd`:
-
-- **Desde la consola de R:**
-  ```R
-  rmarkdown::render("taller_3.Rmd")
+Una vez que existan todos los archivos `.rds` y `.png` en la carpeta `output/`, proceda a compilar el documento principal `taller_3.Rmd`.
